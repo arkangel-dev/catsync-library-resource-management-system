@@ -1,2 +1,2 @@
-# catsync-library-resource-management-system
-Just another library software someone ( I ) did for my college finals.
+# CatSync LRMS
+Just another dumb library software thingy made for college finals. Worst experience of my 2018.
