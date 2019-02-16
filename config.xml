@@ -1,0 +1,20 @@
+<settings>
+	<emailsettings>
+		<email>notificationblender.samramirez@gmail.com</email>
+		<password>48n4AV5^fr8u</password>
+		<smtpserver>smtp.gmail.com</smtpserver>
+		<smtpport>587</smtpport>
+		<emailtitle>Linus Media Group Library</emailtitle>
+	</emailsettings>
+	<metasettings>
+		<version>0.1.2</version>
+		<builddate>24/10/2018</builddate>
+	</metasettings>
+	<functionsettings>
+		<maxrentduration>14</maxrentduration>
+		<institutionname>Linus Media Group</institutionname>
+		<initiallatecost>5</initiallatecost>
+		<dailylatecost>1</dailylatecost>
+		<currency>MVR</currency>
+	</functionsettings>
+</settings>
