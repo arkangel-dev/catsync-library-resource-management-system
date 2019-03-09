@@ -4,7 +4,7 @@
 Just another dumb library software thingy made for college finals. And since everyone will do something related to this, use this as a template. Uses **3 separate databases** to store a single entry. Worst back-end code a college student can write. But then again who reads the backend code as long as it works? Just hope that your college professor doesn't find this.
 
 ## Features
-- Send email when email is late
+- Send email when book is late
 - Write up late fee slips
 - Multiple currencies
 - LTT easter eggs
