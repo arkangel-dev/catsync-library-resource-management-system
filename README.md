@@ -10,12 +10,12 @@ Just another dumb library software thingy made for college finals. And since eve
 - LTT easter eggs
 - Bad code (So less suspicion that this code was downloaded from the internet)
 
+## Dependencies
+EA Send Mail Component : https://download.cnet.com/EASendMail-SMTP-Component/3000-2070_4-10521758.html
+
 ## Bugs
 - Writing late fee slips usually dont work
 - Emails are sent as long as the program is running and a user is switching windows
   - Mainly because I didn't add a loop instead I added a check late function in the OnLoad() function of each window
   - also there is no background processes to send the email if the program is closed
 - Some rented books dont showup in the borrowed list
-
-## Dependencies
-EA Send Mail Component : https://download.cnet.com/EASendMail-SMTP-Component/3000-2070_4-10521758.html
