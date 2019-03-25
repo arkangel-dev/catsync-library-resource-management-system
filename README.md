@@ -1,5 +1,5 @@
 
-<img align="right" width="100" height="100" src="https://i.imgur.com/RMuc1ki.png">
+<img align="center" width="100" height="100" src="https://i.imgur.com/RMuc1ki.png">
 ![alt text](https://i.imgur.com/RMuc1ki.png)
 
 # CatSync LRMS
