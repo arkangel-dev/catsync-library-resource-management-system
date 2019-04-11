@@ -1,5 +1,3 @@
-
-![alt text](https://i.imgur.com/RMuc1ki.png)
 <p align="center">
     <img src="https://i.imgur.com/RMuc1ki.png">
 </p>
