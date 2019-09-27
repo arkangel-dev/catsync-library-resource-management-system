@@ -1,7 +1,7 @@
 <settings>
 	<emailsettings>
-		<email>notificationblender.samramirez@gmail.com</email>
-		<password>48n4AV5^fr8u</password>
+		<email>NULL</email>
+		<password>NULL</password>
 		<smtpserver>smtp.gmail.com</smtpserver>
 		<smtpport>587</smtpport>
 		<emailtitle>Linus Media Group Library</emailtitle>
